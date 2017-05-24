@@ -86,3 +86,28 @@ body
     color: aqua;
     text-decoration:none;
 }
+#experience {
+    display: flex;
+    padding-left: 16px;
+}
+
+.description section{
+    display: flex;
+}
+
+#stats section{
+    display: flex;
+}
+
+#stats {
+    
+}
+
+#pro-skills {
+    background: #3F51B5;
+}
+
+#per-skills {
+    background: #8BC34A;
+    
+}
